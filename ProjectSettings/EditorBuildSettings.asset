@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/AnchorPlacer.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/FurniturePlacer.unity
+    guid: 590c72577c658f844a35a85c9174b61a
+  - enabled: 0
+    path: Assets/Scenes/NavMesh.unity
+    guid: 1b57acd8ee8cdf34aa8bd3620f9f1c00
+  - enabled: 1
+    path: Assets/Scenes/Turrets.unity
+    guid: a119e199751fc8b49ac5b238b8110e88
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2d2ee22e183147a43b44a73c991802f5,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: ae1b351043d36df4da599748f6fd6695,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 52c94f59cc1dee94e856a33eccb219f1,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 025a7cc69d4871248bfcc1b53a086371,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
